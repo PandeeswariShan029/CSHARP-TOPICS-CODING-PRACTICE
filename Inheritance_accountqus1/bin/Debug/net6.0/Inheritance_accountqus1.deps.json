@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Inheritance_accountqus1/1.0.0": {
+        "runtime": {
+          "Inheritance_accountqus1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance_accountqus1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

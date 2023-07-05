@@ -1,0 +1,15 @@
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\bin\Debug\net6.0\Inheritance_accountqus1.exe
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\bin\Debug\net6.0\Inheritance_accountqus1.deps.json
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\bin\Debug\net6.0\Inheritance_accountqus1.runtimeconfig.json
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\bin\Debug\net6.0\Inheritance_accountqus1.dll
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\bin\Debug\net6.0\Inheritance_accountqus1.pdb
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.csproj.AssemblyReference.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.AssemblyInfoInputs.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.AssemblyInfo.cs
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.csproj.CoreCompileInputs.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.dll
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\refint\Inheritance_accountqus1.dll
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.pdb
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\Inheritance_accountqus1.genruntimeconfig.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountqus1\obj\Debug\net6.0\ref\Inheritance_accountqus1.dll
