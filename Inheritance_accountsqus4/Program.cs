@@ -1,4 +1,72 @@
-﻿using System;
+﻿
+
+/*Question: Implement a Bank Account System
+
+You have been tasked with implementing a bank account system using object-oriented programming concepts in C#. The system should have classes to represent different types of accounts and a class to manage account operations. Your task is to complete the given code to make it work correctly.
+
+Class Definitions:
+
+Account class:
+
+Properties:
+AccountNumber (string): The account number.
+Balance (double): The current balance in the account.
+AccountHolderName (string): The name of the account holder.
+Constructor:
+Initializes the AccountNumber, Balance, and AccountHolderName properties with the provided values.
+
+SavingAccount class (inherits from Account):
+
+Properties:
+MinimumBalance (double): The minimum balance required in the account.
+Constructor:
+Initializes the AccountNumber, Balance, AccountHolderName, and MinimumBalance properties with the provided values.
+
+
+FixedAccount class (inherits from SavingAccount):
+
+Properties:
+LockingPeriod (int): The locking period in months for the fixed account.
+Constructor:
+Initializes the AccountNumber, Balance, AccountHolderName, MinimumBalance, and LockingPeriod properties with the provided values.
+
+
+
+AccountBO class:
+
+Methods:
+CreateAccountDetail(string details): This method takes a string containing comma-separated account details and returns a FixedAccount object created with the provided details. The account details are in the following order: AccountNumber, Balance, AccountHolderName, MinimumBalance, LockingPeriod.
+
+DisplayAccountDetails(List<FixedAccount> fixedAccountList): This method takes a list of FixedAccount objects and displays the account details in a tabular format. The table should include the following columns: "Account Number", "Balance", "Account holder name", "Minimum balance", "Locking period".
+Instructions:
+
+Complete the implementation of the Account, SavingAccount, and FixedAccount classes according to the provided constructors and properties.
+Implement the CreateAccountDetail method in the AccountBO class to create a FixedAccount object based on the provided account details.
+Implement the DisplayAccountDetails method in the AccountBO class to display the account details in a tabular format as specified.
+In the Main method, prompt the user to enter the number of accounts to create.
+Inside a loop, prompt the user to enter the details for each account and use the CreateAccountDetail method to create a FixedAccount object. Add each created object to the fixedAccountList.
+Finally, call the DisplayAccountDetails method to display the account details in a tabular format 
+
+Sample Input:
+Enter the number of accounts:
+3
+Enter account-1 Detail:
+001, 5000, John Doe, 1000, 12
+Enter account-2 Detail:
+002, 10000, Jane Smith, 2000, 24
+Enter account-3 Detail:
+003, 2000, David Johnson, 500, 6
+
+
+
+
+
+Sample Output:
+Account Number       Balance   Account holder name  Minimum balance  Locking period
+001                  5000.0    John Doe             1000.0           12
+002                  10000. */
+
+using System;
 
 namespace Inheritance_accountsqus4
 {
