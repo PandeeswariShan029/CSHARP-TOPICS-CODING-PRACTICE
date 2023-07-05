@@ -1,0 +1,15 @@
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\bin\Debug\net6.0\Inheritance_accountsqus4.exe
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\bin\Debug\net6.0\Inheritance_accountsqus4.deps.json
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\bin\Debug\net6.0\Inheritance_accountsqus4.runtimeconfig.json
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\bin\Debug\net6.0\Inheritance_accountsqus4.dll
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\bin\Debug\net6.0\Inheritance_accountsqus4.pdb
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.csproj.AssemblyReference.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.AssemblyInfoInputs.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.AssemblyInfo.cs
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.csproj.CoreCompileInputs.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.dll
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\refint\Inheritance_accountsqus4.dll
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.pdb
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\Inheritance_accountsqus4.genruntimeconfig.cache
+C:\19IT1036\C# LEARNING\C# TOPICS LEARNING\INHERITANCE\inheritance coding implementation\Inheritance_accountsqus4\obj\Debug\net6.0\ref\Inheritance_accountsqus4.dll

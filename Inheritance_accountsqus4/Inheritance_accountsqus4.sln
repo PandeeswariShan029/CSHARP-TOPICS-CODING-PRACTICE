@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_accountsqus4", "Inheritance_accountsqus4.csproj", "{145A3BFB-5E72-4D45-8279-4A10C689CE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145A3BFB-5E72-4D45-8279-4A10C689CE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145A3BFB-5E72-4D45-8279-4A10C689CE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145A3BFB-5E72-4D45-8279-4A10C689CE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145A3BFB-5E72-4D45-8279-4A10C689CE16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B5C0C8-33EC-4456-ADAB-8722B641CD30}
+	EndGlobalSection
+EndGlobal
